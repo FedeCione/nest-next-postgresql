@@ -2,9 +2,11 @@
 
 ### Backend
 * Nest.js
+
+### Database
 * Prisma
 * PostgreSQL
-
+  
 ### Frontend
 * Next.js
 * Shadcn UI
